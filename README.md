@@ -59,15 +59,15 @@
 Description of the project in detail.
 
 Guiding Question:
-- What is the project
+ What is the project
    - This an introductory project in HTML that lets us create our first project in our class of IT0043 Web Design with Client Side Scripting.
-- What the purpose
+ What the purpose
   - This is to test our knowledge and understanding of our lesson so far.
-- What are key components
+ What are key components
    - Index.html
    - css file
-- What technology is used and how it is used
-    Laptop and desktop computers are used for coding.
+ What technology is used and how it is used
+   - Laptop and desktop computers are used for coding.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
