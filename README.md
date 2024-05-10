@@ -60,9 +60,9 @@ Description of the project in detail.
 
 Guiding Question:
 - What is the project
-    This an introductory project in HTML that lets us create our first project in our class of IT0043 Web Design with Client Side Scripting.
+   - This an introductory project in HTML that lets us create our first project in our class of IT0043 Web Design with Client Side Scripting.
 - What the purpose
-    This is to test our knowledge and understanding of our lesson so far.
+  - This is to test our knowledge and understanding of our lesson so far.
 - What are key components
    - Index.html
    - css file
