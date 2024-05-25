@@ -96,7 +96,17 @@ L Assets
 |   L js 
 |   |     L placeholder 
 |   L images 
-|         L placeholder 
+|         L Javascript.png
+|         L award.png
+|         L banner.png
+|         L c++.png
+|         L css.png
+|         L education.png
+|         L experience.png
+|         L html.png
+|         L logo.png
+|         L php.png
+|         L python.png
 L Pages 
 |   L placeholder 
 L index.html 
